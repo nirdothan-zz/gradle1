@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Gradle1Application {
 
 	public static void main(String[] args) {
-		System.out.println("Hello");
+		System.out.println("Hello!");
 		SpringApplication.run(Gradle1Application.class, args);
 	}
 }
